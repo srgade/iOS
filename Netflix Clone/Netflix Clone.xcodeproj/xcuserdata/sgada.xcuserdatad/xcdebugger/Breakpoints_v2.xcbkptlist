@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7EB7E051-6415-4CEF-85F9-9ACE0F6EDE95"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EBE6042-8786-4650-A90C-E7BD3988A5BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Views/CollectionViewTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "collectionView(_:contextMenuConfigurationForItemsAt:point:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EBE6042-8786-4650-A90C-E7BD3988A5BF - 9a6ee0089281da61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAction) -&gt; () in closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in Netflix_Clone.CollectionViewTableViewCell.collectionView(_: __C.UICollectionView, contextMenuConfigurationForItemsAt: Foundation.IndexPath, point: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Views/CollectionViewTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "2EBE6042-8786-4650-A90C-E7BD3988A5BF - d43d6023e6629883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAction) -&gt; () in closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in Netflix_Clone.CollectionViewTableViewCell.collectionView(_: __C.UICollectionView, contextMenuConfigurationForItemsAt: Swift.Array&lt;Foundation.IndexPath&gt;, point: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Views/CollectionViewTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "290FE4D3-1306-42FD-9102-8EA8789C8E83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "APICaller"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E983A50C-54F0-448E-A3D7-0CBD5E34E0ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getTrendingMovies(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E983A50C-54F0-448E-A3D7-0CBD5E34E0ED - fdb779b984803f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_Clone.APICaller.getTrendingMovies(completion: (Swift.Result&lt;Swift.Array&lt;Netflix_Clone.Title&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1126">
+               </Location>
+               <Location
+                  uuid = "E983A50C-54F0-448E-A3D7-0CBD5E34E0ED - 577f59ff5a42d7b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Netflix_Clone.APICaller.getTrendingMovies(completion: (Swift.Result&lt;Swift.Array&lt;Netflix_Clone.Title&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "getMovie(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782 - c3878b244ef63ad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+               <Location
+                  uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782 - 2b7feac424ca51b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782 - c3878b244ef6391b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+               <Location
+                  uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782 - 2b7feac424ca527b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782 - c3878b244ef604c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+               <Location
+                  uuid = "21C3F2C2-D8A5-47B2-9AA9-6E3EF04D2782 - 2b7feac424ca6fa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "213">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B4B3490-F887-4161-9178-5DFE1624D4D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "getMovie(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6848554A-8B31-48AF-855F-23A052F17D28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "getMovie(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8000D755-20D2-430D-B6A1-8A673BBC9261"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "getMovie(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8000D755-20D2-430D-B6A1-8A673BBC9261 - 2b7feac424ca521c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "898">
+               </Location>
+               <Location
+                  uuid = "8000D755-20D2-430D-B6A1-8A673BBC9261 - 2b7feac424ca504a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Netflix_Clone.APICaller.getMovie(with: Swift.String, completion: (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Netflix%20Clone/Netflix%20Clone/Managers/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "898">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
