@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0241BC2-A609-4AB8-8E1B-FB9C68137B89"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61D0F45A-D2E6-4CF1-BB70-7BA5D7FF89C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A6ADBC8-D1ED-403D-8748-A6A4D6E94BBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(presenter:isLaunchCoordinator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93F7A42B-6104-4318-ADD7-0CDCC5C6588D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "dismiss(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93F7A42B-6104-4318-ADD7-0CDCC5C6588D - 62a042584e34a256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.dismiss(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "93F7A42B-6104-4318-ADD7-0CDCC5C6588D - 62a042584e34a294"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.dismiss(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "71">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9305D26A-1F49-4195-8019-ECAB0E765E72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "dismiss(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9305D26A-1F49-4195-8019-ECAB0E765E72 - 62a042584e34a256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.dismiss(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "9305D26A-1F49-4195-8019-ECAB0E765E72 - 62a042584e34a294"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.dismiss(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "71">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB6CCDA0-B921-4D06-98D0-32A57331CD17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "modalInModalDidDismiss()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB6CCDA0-B921-4D06-98D0-32A57331CD17 - dbb7464043be37a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.modalInModalDidDismiss() -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "AB6CCDA0-B921-4D06-98D0-32A57331CD17 - dbb7464043be3043"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.modalInModalDidDismiss() -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F6548B1-7BA7-4C49-A24F-6938F3FBF079"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "7F6548B1-7BA7-4C49-A24F-6938F3FBF079 - 1f6912837f9e1c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.cyanViewDidTapAction() -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7F6548B1-7BA7-4C49-A24F-6938F3FBF079 - 1f6912837f9e1c73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.cyanViewDidTapAction() -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9840CCAD-2F64-466B-85D2-7F5F82F0C706"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/RGB/RedGreenBlueCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "blueViewDidTapAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72B9B351-FC2A-4A76-8765-386AD44C77E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "homeViewDidTapAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72B9B351-FC2A-4A76-8765-386AD44C77E2 - 8229badf67e53bfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.homeViewDidTapAction() -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "72B9B351-FC2A-4A76-8765-386AD44C77E2 - 8229badf67e53523"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.HomeCoordinator.homeViewDidTapAction() -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Home/HomeCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0598F855-0619-4EEB-BAB7-6F4AABFCF275"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Cyan/CyanViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "btnActionTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0598F855-0619-4EEB-BAB7-6F4AABFCF275 - c4adaee2b83b5ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.CyanViewController.btnActionTap(Any) -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Cyan/CyanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "0598F855-0619-4EEB-BAB7-6F4AABFCF275 - c4adaee2b83b58f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Navigation.CyanViewController.btnActionTap(Any) -&gt; ()"
+                  moduleName = "Test Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sgada/Dev/Playground/Test%20Coordinator/Test%20Navigation/Classes/Cyan/CyanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48DA3EF3-6270-4BDB-B3D1-066E75F853D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Home/HomeCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "homeViewDidTapAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2280C495-4555-4181-B3D7-66134185ED6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Cyan/CyanCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "cyanViewDidTapAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "272747CF-1313-4D92-B99B-7347A6B79291"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Magenta/MagentaCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "magentaViewDidTapAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "666CE199-5FC9-40DC-876C-0EB6F8152E83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Navigation/Classes/Magenta/MagentaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "btnActionTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

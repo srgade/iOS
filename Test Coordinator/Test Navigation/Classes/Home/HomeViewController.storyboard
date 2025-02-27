@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13189.4" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="5Hu-GU-BDl">
+    <device id="ipad9_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13165.3"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Home View Controller-->
+        <scene sceneID="Hud-H1-Yf8">
+            <objects>
+                <viewController id="5Hu-GU-BDl" customClass="HomeViewController" customModule="Test_Navigation" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="pKK-Bf-qyZ">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="gss-wI-GU0">
+                                <rect key="frame" x="284" y="397" width="200" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gLU-MC-7BR">
+                                        <rect key="frame" x="0.0" y="0.0" width="200" height="30"/>
+                                        <color key="backgroundColor" red="0.9135969883419689" green="0.9135969883419689" blue="0.9135969883419689" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Push Magenta"/>
+                                        <connections>
+                                            <action selector="btnPushMagentaTap:" destination="5Hu-GU-BDl" eventType="touchUpInside" id="c03-95-bLK"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zq0-cP-IMu">
+                                        <rect key="frame" x="0.0" y="50" width="200" height="30"/>
+                                        <color key="backgroundColor" red="0.9135969883419689" green="0.9135969883419689" blue="0.9135969883419689" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Modal Yellow"/>
+                                        <connections>
+                                            <action selector="btnModalYellowTap:" destination="5Hu-GU-BDl" eventType="touchUpInside" id="CGI-V2-vGv"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MEZ-S8-m4w">
+                                        <rect key="frame" x="0.0" y="100" width="200" height="30"/>
+                                        <color key="backgroundColor" red="0.91359698830000002" green="0.91359698830000002" blue="0.91359698830000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Modal Red/Green/Blue"/>
+                                        <connections>
+                                            <action selector="btnModalRGBTap:" destination="5Hu-GU-BDl" eventType="touchUpInside" id="Hlz-Ad-mEL"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cAK-3F-bh7">
+                                        <rect key="frame" x="0.0" y="150" width="200" height="30"/>
+                                        <color key="backgroundColor" red="0.91359698830000002" green="0.91359698830000002" blue="0.91359698830000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Modal In Modal"/>
+                                        <connections>
+                                            <action selector="btnModalInModalTap:" destination="5Hu-GU-BDl" eventType="touchUpInside" id="00Y-s4-MBw"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YTJ-fJ-D24">
+                                        <rect key="frame" x="0.0" y="200" width="200" height="30"/>
+                                        <color key="backgroundColor" red="0.91359698830000002" green="0.91359698830000002" blue="0.91359698830000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Modal Home"/>
+                                        <connections>
+                                            <action selector="btnModalHomeTap:" destination="5Hu-GU-BDl" eventType="touchUpInside" id="yH6-ow-B7P"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="jV5-ym-kqs"/>
+                                </constraints>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lO3-Fb-k2F">
+                                <rect key="frame" x="284" y="974" width="200" height="30"/>
+                                <color key="backgroundColor" red="0.91359698830000002" green="0.91359698830000002" blue="0.91359698830000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="B0g-Hm-dkw"/>
+                                    <constraint firstAttribute="width" constant="200" id="da8-Kc-fiE"/>
+                                </constraints>
+                                <state key="normal" title="Action"/>
+                                <connections>
+                                    <action selector="btnActionTap:" destination="5Hu-GU-BDl" eventType="touchUpInside" id="LXI-fX-NOP"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="gss-wI-GU0" firstAttribute="centerX" secondItem="pKK-Bf-qyZ" secondAttribute="centerX" id="Gee-WL-Pq5"/>
+                            <constraint firstItem="gss-wI-GU0" firstAttribute="centerY" secondItem="pKK-Bf-qyZ" secondAttribute="centerY" id="kuj-1l-s3R"/>
+                            <constraint firstItem="11V-kt-Zg7" firstAttribute="bottom" secondItem="lO3-Fb-k2F" secondAttribute="bottom" constant="20" id="y4o-B4-DoE"/>
+                            <constraint firstItem="lO3-Fb-k2F" firstAttribute="centerX" secondItem="pKK-Bf-qyZ" secondAttribute="centerX" id="ybj-b3-rWh"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="11V-kt-Zg7"/>
+                    </view>
+                    <connections>
+                        <outlet property="btnAction" destination="lO3-Fb-k2F" id="DFu-Re-hzq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ZJk-3u-ZqI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="90" y="269"/>
+        </scene>
+    </scenes>
+</document>
